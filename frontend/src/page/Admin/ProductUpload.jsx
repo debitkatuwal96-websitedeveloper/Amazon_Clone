@@ -17,7 +17,7 @@ export default function ProductUpload() {
     "camera",
     "watch",
     "headphone",
-    "clouth",
+    "clothe",
     "shoes",
     "bag",
     "accessories",
